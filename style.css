@@ -1,0 +1,139 @@
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Arial", sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    width: 925px;
+}
+
+.header {
+    background: #080808;
+    height: 700px;
+}
+
+.bar {
+    margin: 0 auto;
+    width: 1110px;
+    height: 70px;
+    background: #1b1b1b;
+    border-radius: 0 0 8px 8px;
+}
+
+.menu {
+    width: 717px;
+    height: 18px;
+    margin-left: 95px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 70px;
+}
+
+.menu a {
+    letter-spacing: 2px;
+    word-spacing: 9px;
+    margin-top: 24px;
+
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #9c9c9c;
+    text-decoration: none;
+}
+
+.img img:nth-child(1) {
+    width: 20px;
+    height: 19px;
+}
+
+.img img:nth-child(2) {
+    width: 27px;
+    height: 20px;
+}
+
+.img img:nth-child(3) {
+    width: 22px;
+    height: 16px;
+    margin-top: 3px;
+}
+
+.img {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-right: 96px;
+    margin-top: 8px;
+    gap: 24px;
+}
+
+.preview h2 {
+    margin-top: 171px;
+    color: #fff;
+    font-weight: 800;
+
+    font-size: 44px;
+    line-height: 52px;
+}
+
+.preview p {
+    word-spacing: 9px;
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #9c9c9c;
+    text-decoration: none;
+    margin-top: -20px;
+}
+
+#button {
+    margin-top: 30px;
+    box-sizing: border-box;
+    padding-top: 21px;
+    height: 63px;
+    width: 308px;
+    text-decoration: none;
+    background: #b9b602;
+    border-radius: 4px;
+}
+
+#button:hover {
+    background: #c5c900;
+    border: 1px solid #fffb00d7;
+}
+
+#button a {
+    word-spacing: 13px;
+    text-decoration: none;
+    color: #fff;
+
+    margin-left: 64px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+}
+
+.preview {
+    display: flex;
+    justify-content: space-between;
+}
+
+.photo img {
+    margin-top: 80px;
+}
+
+.bottom p {
+    color: #fff;
+
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-top: 51px;
+}
+
+.bottom img {
+    margin-top: 8px;
+}
