@@ -137,3 +137,216 @@ body {
 .bottom img {
     margin-top: 8px;
 }
+
+.titles {
+    text-align: center;
+}
+
+.titles h2 {
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 40px;
+    margin-top: 76px;
+}
+
+.titles p {
+    box-sizing: border-box;
+    margin-top: -15px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #9c9c9c;
+    word-spacing: 8px;
+    letter-spacing: 2px;
+}
+
+.text p {
+    background: #fff6e9;
+    color: #ffa217;
+    padding: 7px 10px;
+    border-radius: 60px;
+    font-weight: 700;
+}
+
+.text {
+    display: inline-block;
+}
+
+.work_name_here {
+    color: #080808;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 0;
+}
+.Lorem {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #9c9c9c;
+    letter-spacing: 2px;
+    margin-top: -10px;
+}
+
+.body_buttons {
+    background: #ffa217;
+    width: 190px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 37px;
+}
+.body_buttons a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+}
+
+.first {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.second {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.second .text p {
+    background: #d0e6ff;
+    color: blue;
+}
+
+.second .body_buttons {
+    background: blue;
+}
+
+.third {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.third .text p {
+    background: #e0fff8;
+    color: #2ab090;
+}
+
+.third .body_buttons {
+    background: #2ab090;
+}
+
+.head {
+    height: 804px;
+    background: #080808;
+    margin-top: 76px;
+}
+
+.labels h2 {
+    padding-top: 80px;
+    color: #fff;
+}
+
+.labels p {
+    margin-top: -14px;
+}
+
+.Testimonials {
+    width: 445px;
+    height: 212px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    border-image: linear-gradient(90deg, rgb(72, 72, 72), rgb(8, 8, 8)) 1;
+    margin-top: 60px;
+}
+
+.__bottom {
+    box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 20px;
+}
+
+.__bottom img {
+    width: 58px;
+}
+
+.__bottom p {
+    font-size: 18px;
+    line-height: 21px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.one p {
+    text-align: left;
+    margin-left: 30px;
+}
+
+#texts {
+    margin-top: 32px;
+    word-spacing: 2px;
+}
+
+.first_line {
+    display: flex;
+    justify-content: space-between;
+}
+
+.second_line {
+    display: flex;
+    justify-content: space-between;
+}
+
+.works {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+#Clientn {
+    margin-top: 20px;
+}
+
+.input {
+    width: 350px;
+    margin: 0 auto;
+}
+.input p {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: left;
+    color: #fff;
+    margin-top: 20px;
+}
+
+input {
+    width: 350px;
+}
+
+.last {
+    background: #1b1b1b;
+    height: 70px;
+}
+
+.last p {
+    margin: 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #9c9c9c;
+    display: flex;
+    justify-content: center;
+}
+
